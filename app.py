@@ -141,7 +141,7 @@ st.markdown(
 # Page Header
 # ---------------------------
 st.markdown("<h1>🏡 House Price Prediction System</h1>", unsafe_allow_html=True)
-st.markdown(f'<div class="model-badge">Best Model: {best_model_info["name"]}</div>', unsafe_allow_html=True)
+#st.markdown(f'<div class="model-badge">Best Model: {best_model_info["name"]}</div>', unsafe_allow_html=True)
 st.markdown("<h3>Enter property details below to get the estimated price</h3>", unsafe_allow_html=True)
 
 # ---------------------------
